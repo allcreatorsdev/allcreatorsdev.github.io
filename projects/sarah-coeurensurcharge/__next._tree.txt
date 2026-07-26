@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/457qvyi96sww7.css","style"]
+:HL["/_next/static/chunks/09wdwpk-e0s-m.css","style"]
 :HL["/_next/static/chunks/00dxuo4vb42m-.css","style"]
 :HL["https://use.typekit.net/gtx3zug.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sarah-coeurensurcharge","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"8S9IuabZy1Q9p2jGWeCRL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"projects","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"sarah-coeurensurcharge","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"A6IUZEDVujcZHxvT9ENFz"}
