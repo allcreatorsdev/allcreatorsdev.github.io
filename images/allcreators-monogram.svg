@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 760" role="img" aria-label="AllCreators monogram white">
+  <title>AllCreators monogram white</title>
+  <defs></defs>
+  
+    <rect x="316" y="20" width="168" height="220" rx="5" fill="#FFFFFF"/>
+    <path d="M108 188 C268 305 532 305 692 188 Q698 184 702 191 L781 360 Q785 369 777 374 C560 483 240 483 23 374 Q15 369 19 360 L98 191 Q102 184 108 188 Z" fill="#FFFFFF"/>
+    <rect x="151.5" y="490.5" width="167" height="208" rx="5"
+          fill="#FFFFFF" transform="rotate(31.8 235 594.5)"/>
+    <rect x="481.5" y="490.5" width="167" height="208" rx="5"
+          fill="#FFFFFF" transform="rotate(-31.8 565 594.5)"/>
+    
+</svg>
